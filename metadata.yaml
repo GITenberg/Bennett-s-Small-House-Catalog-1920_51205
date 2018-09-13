@@ -1,0 +1,23 @@
+_repo: Bennett-s-Small-House-Catalog-1920_51205
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ray H. Bennett Lumber Co., Inc.
+    alias: Bennett Lumber Corporation, North Tonawanda, N.Y.
+    gutenberg_agent_id: '46292'
+    url: http://www.gutenberg.org/2009/agents/46292
+description: ''
+gutenberg_issued: '2016-02-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51205'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Small houses -- United States -- Designs and plans -- Catalogs'
+- !lcc 'NA'
+- GITenberg
+title: Bennett's Small House Catalog, 1920
+url: http://www.gutenberg.org/ebooks/51205
